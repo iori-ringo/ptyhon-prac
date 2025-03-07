@@ -1,8 +1,4 @@
-
-# test2test2
-
-
-# test1
+# good hi
 class ingo:{
     print
 }
