@@ -1,1 +1,4 @@
 # rennshuuu
+class ingo:{
+    print
+}
