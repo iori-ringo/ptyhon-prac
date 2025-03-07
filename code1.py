@@ -1,5 +1,6 @@
-# good hi
+# good hi kontihiwa
 class ingo:{
     print
 }
+
 
